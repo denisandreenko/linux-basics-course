@@ -34,7 +34,7 @@ To see the default target, run the command **`systemctl get-default`**. This com
 $ systemctl get-default
 ```
 
-To change the default target, we can make use of **`systemctl set-target <desired target name goes here as an argument>`**
+To change the default target, we can make use of **`systemctl set-default <desired target name goes here as an argument>`**
 ```
 $ systemctl set-default multi-user.target 
 ```
