@@ -10,6 +10,11 @@
     ```
     
   ![iptables-1](../../images/iptables-1.png)
+  
+  - Add rule to top
+    ```
+      sudo iptables -I INPUT/OUTPUT
+    ```
 
   - Drop rule
     ```
