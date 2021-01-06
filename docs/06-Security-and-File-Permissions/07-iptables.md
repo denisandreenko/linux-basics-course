@@ -9,4 +9,4 @@
       sudo iptables -L
     ```
     
-  ![iptables-1](../images/iptables-1.png)
+  ![iptables-1](../../images/iptables-1.png)
